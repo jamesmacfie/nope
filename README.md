@@ -23,3 +23,5 @@ Todo:
 
 - Alter Applescript to also change status on Bluetooth headphone connection/disconnection
 - Investigate changing status on Slack call or Google Calendar meeting
+
+![](./slack.png)
