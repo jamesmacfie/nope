@@ -18,3 +18,8 @@ Environment variables to create in a `.env` file:
 
 - `DEVICE_ID` The Particle device
 - `TOKEN` The Particle API token
+
+Todo:
+
+- Alter Applescript to also change status on Bluetooth headphone connection/disconnection
+- Investigate changing status on Slack call or Google Calendar meeting
